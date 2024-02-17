@@ -1,0 +1,69 @@
+header{
+    color: #f5e2e4;
+    background-image: url('../images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+}
+.red{
+    color: red;
+}
+h3{
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.second{
+    margin-top: 50px;
+    height: 300px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.midnight{
+    margin-top: 600px;
+    text-align: left;
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    color: #fff;
+    padding-left: 30px;
+    padding-top: 120px;
+    height: 600px;
+    font-size: 20px;
+
+}
+.midnight p{
+    width: 60%;
+}
+button{
+    background-color: green;
+    color: #fff;
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+button:hover{
+    background-color: bisque;
+    color: #121313;
+}
+.schedule{
+    margin-top: -80px;
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    background-color: bisque;
+}
+.schedule-info{
+    padding-top: 80px;
+    font-weight: 800;
+}
+
+
+footer{
+    height: 1000px;
+}
