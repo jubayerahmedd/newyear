@@ -108,7 +108,9 @@ button:hover{
     background-position-y: top;
     background-position-x: center;
 }
-
+.awesome-text{
+    text-align: center;
+}
 
 
 
