@@ -112,6 +112,26 @@ button:hover{
     text-align: center;
 }
 
+.subscribe{
+    margin-top: 80px;
+    height: 600px;
+    background-color: antiquewhite;
+}
+
+.sub-img{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+.sub-text{
+    text-align: center;
+}
+.sub-input{
+    border-radius: 20px;
+    height: 30px;
+}
+
 
 
 
